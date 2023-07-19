@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KedwithGod
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter am at intermidiary level
-- 💞️ I’m looking to collaborate on mobile development project
+- 👀 I’m interested in mobile development, Backend and frontend 
+- 🌱 I’m currently learning flutter, python, laravel, php, flask and plsql
+- 💞️ I’m looking to collaborate on mobile development project and any of the above language oriented project
 - 📫 How to reach me 08151535983,09064703871, Komolafeezekiel123@gmail.com
 
 <!---

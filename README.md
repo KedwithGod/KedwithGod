@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @KedwithGod
-- 👀 I’m interested in mobile development, Backend and frontend 
-- 🌱 I’m currently learning flutter, python, laravel, php, flask and plsql
-- 💞️ I’m looking to collaborate on mobile development project and any of the above language oriented project
-- 📫 How to reach me 08151535983,09064703871, Komolafeezekiel123@gmail.com
+Hello there! 👋 I'm KED, a passionate Flutter developer with a knack for crafting seamless cross-platform applications. My GitHub playground is filled with the magic of Flutter, where Dart dances with creativity.
 
-<!---
-KedwithGod/KedwithGod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*🛠️ My Tech Toolbox:*
+- *Flutter & Dart:* Mastering the art of building beautiful, responsive apps that shine on both iOS and Android.
+- *PHP & Laravel:* Crafting robust backends and dynamic web experiences.
+- *Python:* Navigating the realms of versatility, from scripting to data analysis.
+- *APIs:* Weaving the threads of connectivity to bring apps to life.
+
+*💻 Ready to Collaborate:*
+- I thrive on collaboration! Let's combine our coding superpowers to tackle bigger projects and create something extraordinary.
+
+🌐 Find Me:
+- Email: Komolafeezekieldare@gmail.com 
+- LinkedIn: linkedin.com/in/ezekiel-komolafe-3b206a112
+- Twitter: https://twitter.com/komolafe_d45223
+- Portfolio: kedwithgod.github.io/personalPortfolio
+
+Join me on this coding adventure, and let's build something amazing together!

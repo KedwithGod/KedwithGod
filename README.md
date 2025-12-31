@@ -3,6 +3,8 @@ Hello there! 👋 I'm KED, a passionate Flutter developer with a knack for craft
 *🛠️ My Tech Toolbox:*
 - *Flutter & Dart:* Mastering the art of building beautiful, responsive apps that shine on both iOS and Android.
 - React & React Native: Crafting dynamic and performant web and mobile applications with a single codebase.
+- TypeScript: Bringing strong typing, reliability, and maintainability to modern web and backend development.
+- Node.js & Hono: Building fast, lightweight, and scalable backend services with a modern, edge-ready approach.
 - *PHP & Laravel:* Crafting robust backends and dynamic web experiences.
 - *Python:* Navigating the realms of versatility, from scripting to data analysis.
 - Golang: Writing efficient, scalable, and fast backend services with simplicity in mind.
